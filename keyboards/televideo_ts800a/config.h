@@ -1,0 +1,1 @@
+#define SPLT_WATCHDOG_ENABLE
